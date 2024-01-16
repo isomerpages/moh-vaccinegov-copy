@@ -46,8 +46,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 is_government: true
 google_analytics: UA-191846183-3
-staging: https://staging.d3l69eftt4zpcl.amplifyapp.com/
-prod: https://master.d3l69eftt4zpcl.amplifyapp.com/
+staging: https://staging-lite.dykgrb238taay.amplifyapp.com
+prod: https://master.d2xyhncykk8v71.amplifyapp.com
 plugins:
   - jekyll-feed
   - jekyll-assets
